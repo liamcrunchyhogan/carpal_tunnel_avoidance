@@ -1,2 +1,2 @@
-# carpal_tunnel_avoidance
+# carpal tunnel avoidance
 python cryotherapy
